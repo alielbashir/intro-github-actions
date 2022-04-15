@@ -14,8 +14,10 @@ List the workshop source from Microsoft Learn (usually a module)
 > List your established goals of the workshop experience here. These are the takeaways that you want students to have after completing the workshop.
 
 1. Students will be skilled at:
+GitHub Actions
 
 1. Students will be able to independently use their learning to:
+Create a GitHub Actions Continuous Integration workflow
 
 ## Stage 2: Evidence
 
@@ -23,9 +25,15 @@ List the workshop source from Microsoft Learn (usually a module)
  
 1. Performance Tasks (these are tasks that a student can complete to demonstrate comprehension, such as a quiz or code challenge)
 
+GitHub Actions interactive/live quiz using Kahoot or similar software
+
 ## Stage 3: Learning Plan
 
 > Now you are ready to build out your lesson plan. Summarize the key learning events here by creating an outline of the milestones that you can lay out to structure the course.
 
-1. List the key learning events in the workshop - for a one-hour workshop, we recommend 5 milestones
+1. Setup a GitHub project
+2. Setup a Pytest Python project - Write the main program and it's modules
+3. Setup the GitHub Action workflow for testing, syntax and style/comment checking
+4. Push changes to GitHub and review Action
+5. Make changes according to GitHub Action results
 
