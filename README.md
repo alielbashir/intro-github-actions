@@ -15,11 +15,11 @@ To present a unified voice, please use [this style guide](https://github.com/jlo
 
 ## Building a Workshop
 
-- [ ] Decide what kind of workshop you want to design and sync with project lead Jen Looper to work out details.
-- [ ] Discuss your plan with your lead and add it to our DevOps board.
+- [x] Decide what kind of workshop you want to design and sync with project lead Jen Looper to work out details.
+- [x] Discuss your plan with your lead and add it to our DevOps board.
 - [ ] Design your workshop following these steps.
-    - [ ] Fork this template repo to your local machine.
-    - [ ] In the folder of your chosen type of workshop, fill out the [workshop-designer](./workshop/workshop-designer.md) document to design the experience.
+    - [x] Fork this template repo to your local machine.
+    - [x] In the folder of your chosen type of workshop, fill out the [workshop-designer](./workshop/workshop-designer.md) document to design the experience.
     - [ ] Build slides for the workshop using the appropriate template, depending on which type of workshop you are building. 
         - For Workshops, use our Particle tool to generate slides. Contact Chris Noring or Jen Looper for help.
         - For Short-form workshops, slides are optional.
