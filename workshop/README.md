@@ -54,9 +54,20 @@ text
 
 link
 
-## Milestone 2 - Setup a Python project with Pytest
+## Milestone 2 - Setup a Python project
 
-text
+Now we need to set up a Python project on our local machine, for which we will create our CI workflow.
+
+# TODO add more details and photos/terminal commands for each step
+
+1. Create main.py in a new project folder
+2. Confirm pip and python work on the terminal with pip --version and python --version
+3. Write down a basic calculator app with 4 functions, addition, subtraction, multiplication and division
+4. Create tests.py, and write tests for each calculator function
+5. Run tests using pytest on the terminal
+6. Check style using black
+7. Check syntax using flake8
+8. Push to GitHub
 
 link
 
