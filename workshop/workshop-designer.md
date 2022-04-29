@@ -31,9 +31,9 @@ GitHub Actions interactive/live quiz using Kahoot or similar software
 
 > Now you are ready to build out your lesson plan. Summarize the key learning events here by creating an outline of the milestones that you can lay out to structure the course.
 
-1. Setup a GitHub project
-2. Setup a Pytest Python project - Write the main program and it's modules
-3. Setup the GitHub Action workflow for testing, syntax and style/comment checking
-4. Push changes to GitHub and review Action
-5. Make changes according to GitHub Action results
+1. Setup a GitHub repository
+2. Setup a Python project
+3. Create the GitHub Actions workflow
+4. Push changes to GitHub and review workflow
+5. Make changes according to workflow results
 
