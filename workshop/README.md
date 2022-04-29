@@ -58,7 +58,7 @@ link
 
 Now we need to set up a Python project on our local machine, for which we will create our CI workflow.
 
-# TODO add more details and photos/terminal commands for each step
+*TODO add more details and photos/terminal commands for each step*
 
 1. Create main.py in a new project folder
 2. Confirm pip and python work on the terminal with pip --version and python --version
