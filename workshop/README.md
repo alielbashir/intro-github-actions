@@ -34,14 +34,13 @@ Example: Have you ever wanted to visit a museum virtually or explore its collect
 
 In this workshop, you will build a Continuous Integration workflow for a Python project using GitHub Actions. The final workflow will:
 
-1. Validate code style
-2. Check code syntax
-3. Run automated tests
+1. Check code syntax
+2. Run automated tests
 everytime a new commit is pushed to the project.
 
 By the end of this workshop you will be able to:
 1. Setup a GitHub Actions workflow
-2. Configure automated syntax checking, linting, and testing in the workflow
+2. Configure automated linting and testing in the workflow
 3. Debug workflow logs to identify problems and fix them
 
 *add a screenshot of a passing workflow*
@@ -58,16 +57,34 @@ link
 
 Now we need to set up a Python project on our local machine, for which we will create our CI workflow.
 
-*TODO add more details and photos/terminal commands for each step*
+1. Open the project in VSCode
+![image](https://user-images.githubusercontent.com/53450844/168304812-15adfdb3-910f-4f66-bace-1e6e18ae5641.png)
+After opening the project you should open a new terminal to run commands using VSCode's integrated terminal
+![image](https://user-images.githubusercontent.com/53450844/168305239-9c7084cf-2c15-42d5-b55b-7099eaea5eba.png)
+![image](https://user-images.githubusercontent.com/53450844/168305326-2ec5af48-7426-453d-9a80-f0734fa4248d.png)
 
-1. Create main.py in a new project folder
-2. Confirm pip and python work on the terminal with pip --version and python --version
-3. Write down a basic calculator app with 4 functions, addition, subtraction, multiplication and division
-4. Create tests.py, and write tests for each calculator function
-5. Run tests using pytest on the terminal
-6. Check style using black
-7. Check syntax using flake8
-8. Push to GitHub
+2. Install pytest and flake8 using this command
+```
+py -m pip install pytest flake8
+```
+3. Run tests using pytest on the terminal
+![image](https://user-images.githubusercontent.com/53450844/168305834-14728299-046c-4e81-8ee9-89d456c9b4ea.png)
+```
+py -m pytest
+```
+The command should run and show you that all the tests passed
+
+4. Lint using flake8
+![image](https://user-images.githubusercontent.com/53450844/168306766-687b6f8a-f31a-436b-853a-c767f476ded4.png)
+```
+py -m flake8
+```
+If you see no output don't worry, that means the code has no syntax issues :)
+
+5. Push to GitHub
+```
+git push
+```
 
 link
 
