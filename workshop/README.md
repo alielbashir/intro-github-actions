@@ -104,9 +104,23 @@ git push
 
 ## Milestone 4 - Push changes to GitHub and review workflow
 
-text
+1. Add a new calculate square area function and write it's test
+```py
+# calculator.py
+def calculate_square_area(width):
+    return width * 2 
+```
+```py
+# test_main.py
+def test_calculate_square_area():
+    assert calculate_square_area(10) == 100
+```
 
-link
+2. Commit and push the change to GitHub
+```
+git push
+```
+
 
 ## Milestone 5 - Make changes according to workflow results
 
