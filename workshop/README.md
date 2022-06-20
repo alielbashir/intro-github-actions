@@ -10,7 +10,7 @@ In this workshop, you will learn how to build a Continuous Integration (CI) work
 | **What you'll need**          | [Python](https://www.python.org/downloads/), [Visual Studio Code](https://code.visualstudio.com/download) and a [GitHub account](https://github.com/signup) |
 | **Duration**                  | 1 Hour |
 | **Microsoft Cloud Topics taught**                 | GitHub Actions |
-| **Just want to try the app or see the solution?** | # TODO |
+| **Want to try the app or see the solution?** | # TODO |
 | **Slides** | [Powerpoint](slides.pptx) 
                          
 ## Video
@@ -25,6 +25,7 @@ Embed your Train the Trainer video here. Instructions on how to create a great v
 
 - [Python](https://www.python.org/downloads/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
+- [Git](https://git-scm.com/download)
 
 ## What students will learn
 
@@ -49,9 +50,15 @@ By the end of this workshop you will be able to:
 
 ## Milestone 1 - Setup a GitHub Repository
 
-text
+Let's begin by forking the sample repository, so we can make changes upon it.
 
-link
+1. Login to your GitHub account
+
+2. Fork the sample repository into your own account https://github.com/alielbashir/python-ci
+
+3. Clone the forked repo into your PC and authenticate GitHub in VSCode #TODO add image
+
+
 
 ## Milestone 2 - Setup a Python project
 
