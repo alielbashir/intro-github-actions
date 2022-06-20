@@ -102,7 +102,7 @@ git push
 5. Pull the changes into your local repo
 
 
-## Milestone 4 - Push changes to GitHub and review workflow
+## Milestone 4 - Push changes to GitHub
 
 1. Add a new calculate square area function and write it's test
 ```py
@@ -122,11 +122,16 @@ git push
 ```
 
 
-## Milestone 5 - Make changes according to workflow results
+## Milestone 5 - Review workflow and make changes so it passes
 
-text
+The workflow run failed! Looks like there's an error we need to debug
 
-link
+1. Open the workflow details page
+2. Click on the failing action
+3. Inspect the logs to find the cause of the workflow failure
+4. Fix the cause locally and push the change you made
+5. Wait and confirm the workflow passes
+
 
 ## Quiz or Code Challenge
 
