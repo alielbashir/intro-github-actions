@@ -54,7 +54,7 @@ Let's begin by forking the sample repository, so we can make changes upon it.
 
 1. Login to your GitHub account
 
-2. Fork the sample repository into your own account https://github.com/alielbashir/python-ci
+2. Fork the sample repository into your own account https://github.com/alielbashir/python-calculator
 
 3. Clone the forked repo into your PC and authenticate GitHub in VSCode #TODO add image
 
@@ -93,13 +93,14 @@ If you see no output don't worry, that means the code has no syntax issues :)
 git push
 ```
 
-link
-
 ## Milestone 3 - Create the GitHub Actions workflow
 
-text
+1. Navigate to the GitHub Actions page on your forked repo
+2. Click "configure" on the suggested Python Application workflow
+3. Commit the new file into the remote repo
+4. Refresh the repo's homepage and confirm the workflow runs successfully
+5. Pull the changes into your local repo
 
-link
 
 ## Milestone 4 - Push changes to GitHub and review workflow
 
