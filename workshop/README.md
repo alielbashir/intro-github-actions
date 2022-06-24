@@ -43,9 +43,6 @@ By the end of this workshop you will be able to:
 2. Configure automated linting and testing in the workflow
 3. Debug workflow logs to identify problems and fix them
 
-
-![image of passing workflow](images/placeholder.png)
-
 ## Milestone 1 - Setup a GitHub Repository
 
 Let's begin by forking the sample repository, so we can make changes upon it.
