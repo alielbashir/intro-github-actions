@@ -10,7 +10,6 @@ In this workshop, you will learn how to build a Continuous Integration (CI) work
 | **What you'll need**          | [Python](https://www.python.org/downloads/), [Visual Studio Code](https://code.visualstudio.com/download) and a [GitHub account](https://github.com/signup) |
 | **Duration**                  | 1 Hour |
 | **Microsoft Cloud Topics taught**                 | GitHub Actions |
-| **Want to try the app or see the solution?** | # TODO |
 | **Slides** | [Powerpoint](slides.pptx) 
                          
 ## Video
@@ -44,7 +43,6 @@ By the end of this workshop you will be able to:
 2. Configure automated linting and testing in the workflow
 3. Debug workflow logs to identify problems and fix them
 
-*add a screenshot of a passing workflow*
 
 ![image of passing workflow](images/placeholder.png)
 
@@ -135,19 +133,15 @@ The workflow run failed! Looks like there's an error we need to debug
 
 ## Quiz or Code Challenge
 
-Link to quiz or challenge on Learn
 
 ## Next steps
 
-*links to Microsoft Learn to further learning progress, and/or a path to certifications*
 
 [AZ-400: Implement CI with Azure Pipelines and GitHub Actions](https://docs.microsoft.com/en-us/learn/paths/az-400-implement-ci-azure-pipelines-github-actions/)
 
 [Build and deploy applications to Azure by using GitHub Actions](https://docs.microsoft.com/en-us/learn/modules/github-actions-cd/)
 
 ## Practice
-
-*suggest, or add as an addendum, a way to extend students knowledge of the topic by creating a new app or demo that builds on the original workshop materials.*
 
 Now that you know how to build a CI workflow for Python, you can apply this knowledge to create a CI workflow for projects with any other language. Can you set up a CI workflow for past projects? Can you modify this workflow to run on different branches? 
 
