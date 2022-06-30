@@ -11,10 +11,6 @@ In this workshop, you will learn how to build a Continuous Integration (CI) work
 | **Duration**                  | 1 Hour |
 | **Microsoft Cloud Topics taught**                 | GitHub Actions |
 | **Slides** | [Powerpoint](slides.pptx) 
-                         
-## Video
-
-Embed your Train the Trainer video here. Instructions on how to create a great video experience is [available on this page](../video-guidance.md).
 
 ## Pre-Learning
 - [Create and manage projects in Python](https://docs.microsoft.com/en-us/learn/modules/python-create-manage-projects/)
