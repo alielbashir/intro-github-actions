@@ -60,12 +60,6 @@ Using GitHub Actions, you can send new issues as messages to other messaging pla
  
 ### Question 7:
 
-GitHub Actions is the only CI/CD tool that is free to use (Freemium) <br>
-<b> A: </b> True <br>
--> <b> B: </b> False <br> 
-
-### Question 8:
-
 What is GitHub Actions Workflow? <br>
 <b> A: </b> A massive repository of free to use templates. <br>
  <b> B: </b> Set of instructions to compile your code. <br>
