@@ -130,7 +130,52 @@ The workflow run failed! Looks like there's an error we need to debug
 
 ## Quiz or Code Challenge
 
+### Question 1:
 
+What is GitHub Actions ? <br>
+-><b> A: </b> CI/CD Platform <br>
+ <b> B: </b> Programming Language <br>
+ <b> C: </b> Code Editor <br>
+ <b> D: </b> Cloud Platform  <br> 
+
+### Question 2:
+
+What language is used in GitHub Action Workflow files ? <br>
+ <b> A: </b> JavaScript <br>
+ <b> B: </b> Python <br>
+ -> <b> C: </b> YAML <br>
+ <b> D: </b> C++  <br>
+
+### Question 3:
+
+Why is CI/CD Important ? <br>
+ <b> A: </b> It makes the project smaller. <br>
+ <b> B: </b> It automatically detects the error while writing code. <br>
+ <b> C: </b> It is required in some countries. <br>
+ -> <b> D: </b> It automates testing and deploying, thus saving a lot of time. <br> 
+
+
+### Question 4:
+
+What is the main benefit of GitHub Actions on Open Source software ? <br>
+ <b> A: </b> Check for plagiarism. <br>
+ <b> B: </b> Automatically deploy after each pull request. <br>
+ -> <b> C: </b> Ensure high quality issues and pull requests are submitted. <br>   
+
+### Question 5:
+
+Using GitHub Actions, you can send new issues as messages to other messaging platforms like Slack or MS Teams. <br>
+-><b> A: </b> True <br>
+ <b> B: </b> False  <br>
+ 
+### Question 6:
+
+What is GitHub Actions Workflow? <br>
+<b> A: </b> A massive repository of free to use templates. <br>
+ <b> B: </b> Set of instructions to compile your code. <br>
+-> <b> C: </b> Set of instructions that tells GitHub Actions how to build, test or/and deploy your code. <br> 
+ <b> D: </b> Set of instructions that define how GitHub Actions should be used in a company. <br>
+ 
 ## Next steps
 
 
