@@ -37,28 +37,21 @@ Why is CI/CD Important ? <br>
  <b> C: </b> It is required in some countries. <br>
  -> <b> D: </b> It automates testing and deploying, thus saving a lot of time. <br> 
 
+
 ### Question 4:
-
-What can't GitHub Actions do? <br>
- -> <b> A: </b> Detect security problems on dependencies. <br> 
- <b> B: </b> Test the code automatically. <br>
- <b> C: </b> Deploy the code automatically. <br>
- <b> D: </b> Write messages automatically on PR's. <br>
-
-### Question 5:
 
 What is the main benefit of GitHub Actions on Open Source software ? <br>
  <b> A: </b> Check for plagiarism. <br>
  <b> B: </b> Automatically deploy after each pull request. <br>
  -> <b> C: </b> Ensure high quality issues and pull requests are submitted. <br>   
 
-### Question 6:
+### Question 5:
 
 Using GitHub Actions, you can send new issues as messages to other messaging platforms like Slack or MS Teams. <br>
 -><b> A: </b> True <br>
  <b> B: </b> False  <br>
  
-### Question 7:
+### Question 6:
 
 What is GitHub Actions Workflow? <br>
 <b> A: </b> A massive repository of free to use templates. <br>
