@@ -28,10 +28,6 @@ Embed your Train the Trainer video here. Instructions on how to create a great v
 
 ## What students will learn
 
-<!-- *In this area, describe the scenario and intended solution, paraphrasing what is in the module or creating a brief description here*
-
-Example: Have you ever wanted to visit a museum virtually or explore its collections right from your home computer? In this workshop, use an API, or Application Programming Interface, to learn more about a museum collection. -->
-
 In this workshop, you will build a Continuous Integration workflow for a Python project using GitHub Actions. The final workflow will:
 
 1. Check code syntax
@@ -51,7 +47,7 @@ Let's begin by forking the sample repository, so we can make changes upon it.
 
 2. Fork the sample repository into your own account https://github.com/alielbashir/python-calculator
 
-3. Clone the forked repo into your PC and authenticate GitHub in VSCode #TODO add image
+3. Clone the forked repo into your PC and authenticate GitHub in VSCode
 
 
 
