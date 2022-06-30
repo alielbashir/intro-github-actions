@@ -7,7 +7,7 @@ In this workshop, you will learn how to build a Continuous Integration (CI) work
 | **Goal**                      | Create a CI workflow with GitHub Actions                                    |
 | ----------------------------- | --------------------------------------------------------------------- |
 | **What will you learn**       | The basics of creating a GitHub Actions workflow that runs on code changes|
-| **What you'll need**          | [Python](https://www.python.org/downloads/), [Visual Studio Code](https://code.visualstudio.com/download) and a [GitHub account](https://github.com/signup) |
+| **What you'll need**          | [Python](https://www.python.org/downloads/), [Visual Studio Code](https://code.visualstudio.com/download) ,a [GitHub account](https://github.com/signup) and [Git](https://git-scm.com/download) |
 | **Duration**                  | 1 Hour |
 | **Microsoft Cloud Topics taught**                 | GitHub Actions |
 | **Slides** | [Powerpoint](slides.pptx) 
@@ -23,6 +23,7 @@ Embed your Train the Trainer video here. Instructions on how to create a great v
 ## Prerequisites
 
 - [Python](https://www.python.org/downloads/)
+- A [GitHub account](https://github.com/signup)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [Git](https://git-scm.com/download)
 
